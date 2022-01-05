@@ -16,3 +16,9 @@ eval "$(/opt/homebrew/bin/brew shellenv)"
 # Setup asdf (node version manager)
 . /opt/homebrew/opt/asdf/libexec/asdf.sh
 
+########################
+# Setup utility commands
+########################
+
+# Shortcut to every.org code dir
+alias code='cd ~/src/everydotorg/every.org'
