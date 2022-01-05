@@ -5,7 +5,7 @@
 source /opt/homebrew/share/antigen/antigen.zsh
 antigen use oh-my-zsh
 antigen bundle git
-antigen theme oskarkrawczyk/honukai-iterm-zsh honukai
+antigen theme terminalparty
 antigen bundle zsh-users/zsh-syntax-highlighting
 antigen bundle zsh-users/zsh-history-substring-search
 antigen apply
