@@ -14,4 +14,10 @@
   echo "~~~~~~~~~~~~~~~"
   "$SCRIPTPATH/zsh/setup.sh"
   echo "\n"
+
+  echo "~~~~~~~~~~~~~~~"
+  echo "Setting up git"
+  echo "~~~~~~~~~~~~~~~"
+  "$SCRIPTPATH/git/setup.sh"
+  echo "\n"
 )

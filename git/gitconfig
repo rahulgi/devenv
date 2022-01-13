@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+
+[user]
+  name = Rahul Gupta-Iwasaki
+  email = rahul@every.org
+
+[pager]
+  # Do not use less-style paging for the branch command
+  branch = false
