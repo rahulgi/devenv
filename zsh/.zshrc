@@ -31,3 +31,6 @@ bindkey "^E" vi-end-of-line
 
 # Shortcut to every.org code dir
 alias code='cd ~/src/everydotorg/every.org'
+
+# Default mv command to always prompt before overwriting
+alias mv='mv -i'
